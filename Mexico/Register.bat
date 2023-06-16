@@ -1,0 +1,1 @@
+gradle test --tests *runners.com.movistar.mx.RegisterRunner aggregate & cd target/site/serenity & index.html
